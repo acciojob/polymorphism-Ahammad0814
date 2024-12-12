@@ -13,7 +13,7 @@ public class Main {
     }
   }
 
-  public static void main(Strings[] args){
+  public static void main(String[] args){
     Product p = new Product();
     
     int result1 = p.product(10, 20);
